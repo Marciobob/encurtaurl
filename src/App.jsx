@@ -15,9 +15,10 @@ function App() {
 
 
   function enviar(url){
+	
 	const p_resposta = document.getElementById('p_url_retorno')
 	const div_resposta = document.getElementById('container_resposta')
-	alert(p_resposta)
+
 	const bodys ={
 	  "url":url,
 	 
