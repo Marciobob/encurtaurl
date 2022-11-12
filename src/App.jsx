@@ -27,7 +27,7 @@ function App() {
                     'Access-Control-Allow-Origin':'*',
                     'Access-Control-Allow-Methods':'POST,PATCH,OPTIONS'}
 	
-	var url = "https://137.184.83.209:5000/encurta_url"
+	var url = "https://pontodigital.tech:5000/encurta_url"
 	var bory = JSON.stringify(bodys)
 	
 	fetch(url,{
