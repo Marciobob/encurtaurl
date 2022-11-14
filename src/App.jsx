@@ -45,7 +45,11 @@ function App() {
 
 
   return (
+	
     <div className="App">
+		<head>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9483322348403185" crossorigin="anonymous"></script>
+		</head>
       <h1>Encurtador de url</h1>
 
       <div className='box_pesquisa'>
